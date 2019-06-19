@@ -2915,4 +2915,316 @@
        y="186"
        inkscape:label="#rect4642" />
   </g>
+  <g
+     id="layer3"
+     inkscape:label="hot_points"
+     style="display:inline"
+     inkscape:groupmode="layer">
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point"
+       cx="21.5"
+       cy="12.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-3"
+       cx="62.5"
+       cy="16.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-6"
+       cx="96"
+       cy="18"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-7"
+       cx="133.5"
+       cy="16.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-5"
+       cx="172"
+       cy="13"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-35"
+       cx="198"
+       cy="13.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-62"
+       cx="232"
+       cy="32.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-9"
+       cx="269"
+       cy="21"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-1"
+       cx="300.5"
+       cy="13"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-2"
+       cx="342"
+       cy="21"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-70"
+       cx="27.5"
+       cy="66.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-93"
+       cx="62"
+       cy="57"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-60"
+       cx="97"
+       cy="65"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-626"
+       cx="132.5"
+       cy="47.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-18"
+       cx="175"
+       cy="56"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-79"
+       cx="194"
+       cy="55.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-20"
+       cx="232.5"
+       cy="62"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-23"
+       cx="276.5"
+       cy="61.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-75"
+       cx="303"
+       cy="53.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-92"
+       cx="344.5"
+       cy="53"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-28"
+       cx="21.5"
+       cy="97.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-97"
+       cx="67.5"
+       cy="96.75"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-36"
+       cx="90.25"
+       cy="85.75"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-12"
+       cx="137.875"
+       cy="86"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-931"
+       cx="166.875"
+       cy="86"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-94"
+       cx="201.875"
+       cy="97.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-78"
+       cx="232.25"
+       cy="91.75"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-4"
+       cx="276.5"
+       cy="90.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-50"
+       cx="299.5"
+       cy="81"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-361"
+       cx="334.5"
+       cy="82"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-0"
+       cx="18.90901"
+       cy="116.96967"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-63"
+       cx="53.5"
+       cy="117"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-206"
+       cx="96.853554"
+       cy="127.08839"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-15"
+       cx="130.88388"
+       cy="125.82323"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-54"
+       cx="165.73483"
+       cy="126.23483"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-76"
+       cx="200.5"
+       cy="125"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-56"
+       cx="235"
+       cy="125.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-937"
+       cx="268.5"
+       cy="126.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-45"
+       cx="304.5"
+       cy="125.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-25"
+       cx="340.5"
+       cy="126"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-47"
+       cx="26.469669"
+       cy="161.41422"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-44"
+       cx="62.618717"
+       cy="161.53033"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-30"
+       cx="97"
+       cy="161"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-786"
+       cx="132.08839"
+       cy="161.46967"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-8"
+       cx="174.26256"
+       cy="161.61612"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-84"
+       cx="194.38649"
+       cy="161.41422"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-31"
+       cx="236.5"
+       cy="154.5"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-49"
+       cx="271.61612"
+       cy="168.90901"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-2068"
+       cx="306"
+       cy="162"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-926"
+       cx="340.53033"
+       cy="161.64645"
+       r="2" />
+    <circle
+       style="display:inline;fill:#ff0000;fill-opacity:1"
+       id="hot-point-64"
+       cx="19.5"
+       cy="205.5"
+       r="2" />
+  </g>
 </svg>
