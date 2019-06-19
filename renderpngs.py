@@ -34,7 +34,7 @@ optParser.add_option('-d','--debug',action='store_true',dest='debug',help='Enabl
 optParser.add_option('-t','--test',action='store_true',dest='testing',help='Test mode: leave temporary files for examination.')
 optParser.add_option('-p','--sliceprefix',action='store',dest='sliceprefix',help='Specifies the prefix to use for individual slice filenames.')
 
-from xml.sax import saxutils, make_parser, SAXParseException
+from xml.sax import saxutils, make_parser, SAXParseException, handler
 from xml.sax.handler import feature_namespaces
 import os, sys, tempfile, shutil
 
@@ -63,8 +63,9 @@ class SVGRect:
 		self.x2 = x2
 		self.y2 = y2
 		self.name = name
+		self.hotpoint = None
 		dbg("New SVGRect: (%s)" % name)
-	
+
 	def renderFromSVG(self, svgFName, sliceFName):
 		rc = os.system('inkscape --without-gui --export-id="%s" --export-png="pngs/24x24/%s" "%s"' % (self.name, sliceFName, svgFName))
 		if rc > 0:
@@ -79,8 +80,35 @@ class SVGRect:
 #		if rc > 0:
 #			fatalError('ABORTING: Inkscape failed to render the slice.')
 
+	def pointIsInside(self, point):
+		return (point.x >= self.x1) and (point.x <= self.x2) and (point.y >= self.y1) and (point.y <= self.y2)
 
-class SVGHandler(saxutils.DefaultHandler):
+	def foundHotPoint(self, hotpoints_list):
+		hotpoints = filter(self.pointIsInside, hotpoints_list)
+		if len(hotpoints) != 1:
+			return False
+		else:
+			self.hotpoint = hotpoints[0]
+			return True
+
+	def __str__(self):
+		"""To make debugging easier"""
+		return "Rect[%s (%s, %s, %s, %s), %s]" % (self.name, self.x1, self.y1, self.x2, self.y2, self.hotpoint)
+	def __repr__(self):
+		return self.__str__()
+
+class SVGHotPoint:
+	def __init__(self, x, y):
+		self.x = x
+		self.y = y
+		dbg("New SVGHotPoint: [%d; %d]" % (x, y))
+	def __str__(self):
+		"""To make debugging easier"""
+		return "Point(%s, %s)]" % (self.x, self.y)
+	def __repr__(self):
+		return self.__str__()
+
+class SVGHandler(handler.ContentHandler):
 	"""Base class for SVG parsers"""
 	def __init__(self):
 		self.pageBounds = SVGRect(0,0,0,0)
@@ -90,7 +118,7 @@ class SVGHandler(saxutils.DefaultHandler):
 			return (float(stringVal), True)[1]
 		except (ValueError, TypeError), e:
 			return False
-	
+
 	def parseCoordinates(self, val):
 		"""Strips the units from a coordinate, and returns just the value."""
 		if val.endswith('px'):
@@ -110,7 +138,7 @@ class SVGHandler(saxutils.DefaultHandler):
 		else:
 			fatalError("Coordinate value %s has unrecognised units.  Only px,pt,cm,mm,and in units are currently supported." % val)
 		return val
-	
+
 	def startElement_svg(self, name, attrs):
 		"""Callback hook which handles the start of an svg image"""
 		dbg('startElement_svg called')
@@ -118,7 +146,7 @@ class SVGHandler(saxutils.DefaultHandler):
 		height = attrs.get('height', None)
 		self.pageBounds.x2 = self.parseCoordinates(width)
 		self.pageBounds.y2 = self.parseCoordinates(height)
-	
+
 	def endElement(self, name):
 		"""General callback for the end of a tag"""
 		dbg('Ending element "%s"' % name)
@@ -129,35 +157,55 @@ class SVGLayerHandler(SVGHandler):
 	def __init__(self):
 		SVGHandler.__init__(self)
 		self.svg_rects = []
-		self.layer_nests = 0
-	
+		self.svg_hotpoints = []
+		self.slices_layer_nests = 0
+		self.hotpoints_layer_nests = 0
+
+	def matchHotPointsAndSlices(self):
+		if len(self.svg_rects) != len(self.svg_hotpoints):
+			fatalError("Each slice must have hotpoint, amount of slices not equal to amount of hotpoints")
+		for rect in self.svg_rects:
+			if not rect.foundHotPoint(self.svg_hotpoints):
+				fatalError("Cannot find hotpoint for slice %s" % rect)
+
 	def inSlicesLayer(self):
-		return (self.layer_nests >= 1)
-	
+		return (self.slices_layer_nests >= 1)
+
+	def inHotPointsLayer(self):
+		return (self.hotpoints_layer_nests >= 1)
+
 	def add(self, rect):
 		"""Adds the given rect to the list of rectangles successfully parsed"""
 		self.svg_rects.append(rect)
-	
+
+	def add_hotpoint(self, point):
+		self.svg_hotpoints.append(point)
+
 	def startElement_layer(self, name, attrs):
 		"""Callback hook for parsing layer elements
-		
+
 		Checks to see if we're starting to parse a slices layer, and sets the appropriate flags.  Otherwise, the layer will simply be ignored."""
 		dbg('found layer: name="%s" id="%s"' % (name, attrs['id']))
 		if attrs.get('inkscape:groupmode', None) == 'layer':
 			if self.inSlicesLayer() or attrs['inkscape:label'] == 'slices':
-				self.layer_nests += 1
-	
+				self.slices_layer_nests += 1
+			if self.inHotPointsLayer() or attrs['inkscape:label'] == 'hot_points':
+				self.hotpoints_layer_nests += 1
+
 	def endElement_layer(self, name):
 		"""Callback for leaving a layer in the SVG file
-	
+
 		Just undoes any flags set previously."""
 		dbg('leaving layer: name="%s"' % name)
 		if self.inSlicesLayer():
-			self.layer_nests -= 1
-	
+			self.slices_layer_nests -= 1
+		#it is assumed that slices and hot_points layers never nested into each other
+		if self.inHotPointsLayer():
+			self.hotpoints_layer_nests -= 1
+
 	def startElement_rect(self, name, attrs):
 		"""Callback for parsing an SVG rectangle
-		
+
 		Checks if we're currently in a special "slices" layer using flags set by startElement_layer().  If we are, the current rectangle is considered to be a slice, and is added to the list of parsed
 		rectangles.  Otherwise, it will be ignored."""
 		if self.inSlicesLayer():
@@ -168,7 +216,17 @@ class SVGLayerHandler(SVGHandler):
 			name = attrs['id']
 			rect = SVGRect(x1,y1, x2,y2, name)
 			self.add(rect)
-	
+
+	def startElement_circle(self, name, attrs):
+		"""Callback for parsing SVG hot points
+
+		Checks if we're currently in a special "hot_points" layer using flags set by startElement_layer().
+		If we are, circle's center coordinates are added to list of hot points"""
+		if self.inHotPointsLayer():
+			x = self.parseCoordinates(attrs['cx'])
+			y = self.parseCoordinates(attrs['cy'])
+			self.add_hotpoint(SVGHotPoint(x, y))
+
 	def startElement(self, name, attrs):
 		"""Generic hook for examining and/or parsing all SVG tags"""
 		if options.debug:
@@ -180,13 +238,15 @@ class SVGLayerHandler(SVGHandler):
 			self.startElement_layer(name, attrs)
 		elif name == 'rect':
 			self.startElement_rect(name, attrs)
-	
+		elif name == 'circle':
+			self.startElement_circle(name, attrs)
+
 	def endElement(self, name):
 		"""Generic hook called when the parser is leaving each SVG tag"""
 		dbg('Ending element "%s"' % name)
 		if name == 'g':
 			self.endElement_layer(name)
-	
+
 	def generateXHTMLPage(self):
 		"""Generates an XHTML page for the SVG rectangles previously parsed."""
 		write = sys.stdout.write
@@ -198,14 +258,14 @@ class SVGLayerHandler(SVGHandler):
 		write('    </head>\n')
 		write('    <body>\n')
 		write('        <p>Sorry, SVGSlice\'s XHTML output is currently very basic.  Hopefully, it will serve as a quick way to preview all generated slices in your browser, and perhaps as a starting point for further layout work.  Feel free to write it and submit a patch to the author :)</p>\n')
-		
+
 		write('        <p>')
 		for rect in self.svg_rects:
 			write('            <img src="%s" alt="%s (please add real alternative text for this image)" longdesc="Please add a full description of this image" />\n' % (sliceprefix + rect.name + '.png', rect.name))
 		write('        </p>')
-		
+
 		write('<p><a href="http://validator.w3.org/check?uri=referer"><img src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0!" height="31" width="88" /></a></p>')
-		
+
 		write('    </body>\n')
 		write('</html>\n')
 
@@ -220,23 +280,23 @@ if __name__ == '__main__':
 
 	svgFilename = originalFilename + '.svg'
 	shutil.copyfile(originalFilename, svgFilename)
-	
+
 	# setup program variables from command line (in other words, handle non-option args)
 	basename = os.path.splitext(svgFilename)[0]
-	
+
 	if options.sliceprefix:
 		sliceprefix = options.sliceprefix
 	else:
 		sliceprefix = ''
-	
+
 	# initialise results before actually attempting to parse the SVG file
 	svgBounds = SVGRect(0,0,0,0)
 	rectList = []
-	
+
 	# Try to parse the svg file
 	xmlParser = make_parser()
 	xmlParser.setFeature(feature_namespaces, 0)
-	
+
 	# setup XML Parser with an SVGLayerHandler class as a callback parser ####
 	svgLayerHandler = SVGLayerHandler()
 	xmlParser.setContentHandler(svgLayerHandler)
@@ -244,21 +304,24 @@ if __name__ == '__main__':
 		xmlParser.parse(svgFilename)
 	except SAXParseException, e:
 		fatalError("Error parsing SVG file '%s': line %d,col %d: %s.  If you're seeing this within inkscape, it probably indicates a bug that should be reported." % (svgfile, e.getLineNumber(), e.getColumnNumber(), e.getMessage()))
-	
+
 	# verify that the svg file actually contained some rectangles.
 	if len(svgLayerHandler.svg_rects) == 0:
-		fatalError("""No slices were found in this SVG file.  Please refer to the documentation for guidance on how to use this SVGSlice.  As a quick summary:
+		fatalError(
+			"No slices were found in this SVG file.\n"
+			"Please refer to the documentation for guidance on how to use SVGSlice.\n"
+			"As a quick summary: {}".format(usageMsg) )
 
-""" + usageMsg)
-	else:
-		dbg("Parsing successful.")
-	
+	dbg("Parsing successful.")
+
+	svgLayerHandler.matchHotPointsAndSlices()
+
 	#svgLayerHandler.generateXHTMLPage()
-	
+
 	# loop through each slice rectangle, and render a PNG image for it
 	for rect in svgLayerHandler.svg_rects:
 		sliceFName = sliceprefix + rect.name + '.png'
-		
+
 		dbg('Saving slice as: "%s"' % sliceFName)
 		rect.renderFromSVG(svgFilename, sliceFName)
 
