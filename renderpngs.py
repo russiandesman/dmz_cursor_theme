@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 #
 # SVGSlice
 #
@@ -84,7 +84,7 @@ class SVGRect:
 		return (point.x >= self.x1) and (point.x <= self.x2) and (point.y >= self.y1) and (point.y <= self.y2)
 
 	def foundHotPoint(self, hotpoints_list):
-		hotpoints = filter(self.pointIsInside, hotpoints_list)
+		hotpoints = list(filter(self.pointIsInside, hotpoints_list))
 		if len(hotpoints) != 1:
 			return False
 		else:
@@ -116,7 +116,7 @@ class SVGHandler(handler.ContentHandler):
 	def isFloat(self, stringVal):
 		try:
 			return (float(stringVal), True)[1]
-		except (ValueError, TypeError), e:
+		except (ValueError, TypeError) as e:
 			return False
 
 	def parseCoordinates(self, val):
@@ -302,7 +302,7 @@ if __name__ == '__main__':
 	xmlParser.setContentHandler(svgLayerHandler)
 	try:
 		xmlParser.parse(svgFilename)
-	except SAXParseException, e:
+	except SAXParseException as e:
 		fatalError("Error parsing SVG file '%s': line %d,col %d: %s.  If you're seeing this within inkscape, it probably indicates a bug that should be reported." % (svgfile, e.getLineNumber(), e.getColumnNumber(), e.getMessage()))
 
 	# verify that the svg file actually contained some rectangles.
