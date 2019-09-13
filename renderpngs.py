@@ -66,19 +66,14 @@ class SVGRect:
 		self.hotpoint = None
 		dbg("New SVGRect: (%s)" % name)
 
-	def renderFromSVG(self, svgFName, sliceFName):
-		rc = os.system('inkscape --without-gui --export-id="%s" --export-png="pngs/24x24/%s" "%s"' % (self.name, sliceFName, svgFName))
+	def renderFromSVG(self, svgFName, sliceFName, size):
+		path = 'pngs/{sz}x{sz}'.format(sz=size)
+		os.makedirs(path, exist_ok=True)
+		command_line = 'inkscape -w {sz} -h {sz} --without-gui --export-id="{slice_name}" --export-png="{outdir}/{outfile}" "{infile}"'.format(
+			slice_name=self.name, outfile=sliceFName, infile=svgFName, sz=size, outdir=path)
+		rc = os.system(command_line)
 		if rc > 0:
-			fatalError('ABORTING: Inkscape failed to render the slice.')
-		rc = os.system('inkscape -w 32 -h 32 --without-gui --export-id="%s" --export-png="pngs/32x32/%s" "%s"' % (self.name, sliceFName, svgFName))
-		if rc > 0:
-			fatalError('ABORTING: Inkscape failed to render the slice.')
-		rc = os.system('inkscape -w 48 -h 48 --without-gui --export-id="%s" --export-png="pngs/48x48/%s" "%s"' % (self.name, sliceFName, svgFName))
-		if rc > 0:
-			fatalError('ABORTING: Inkscape failed to render the slice.')
-#		rc = os.system('inkscape -w 128 -h 128 --without-gui --export-id="%s" --export-png="pngs/128x128/%s" "%s"' % (self.name, sliceFName, svgFName))
-#		if rc > 0:
-#			fatalError('ABORTING: Inkscape failed to render the slice.')
+			fatalError('ABORTING: Inkscape failed to render the slice.\nCommand line was {}'.format(command_line))
 
 	def pointIsInside(self, point):
 		return (point.x >= self.x1) and (point.x <= self.x2) and (point.y >= self.y1) and (point.y <= self.y2)
@@ -323,7 +318,7 @@ if __name__ == '__main__':
 		sliceFName = sliceprefix + rect.name + '.png'
 
 		dbg('Saving slice as: "%s"' % sliceFName)
-		rect.renderFromSVG(svgFilename, sliceFName)
+		rect.renderFromSVG(svgFilename, sliceFName, 200)
 
 	cleanup()
 
