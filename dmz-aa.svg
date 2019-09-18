@@ -3844,5 +3844,105 @@
        cx="19.5"
        cy="205.5"
        r="2" />
+
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-00" cx="027" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-01" cx="057" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-02" cx="087" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-03" cx="117" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-04" cx="147" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-05" cx="177" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-06" cx="207" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-07" cx="237" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-08" cx="267" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-09" cx="297" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-10" cx="327" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-11" cx="357" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-12" cx="387" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-13" cx="417" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-14" cx="447" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-15" cx="477" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-16" cx="507" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-17" cx="537" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-18" cx="567" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-19" cx="597" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-20" cx="627" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-12" cx="657" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-22" cx="687" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-23" cx="717" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-24" cx="747" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-25" cx="777" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-26" cx="807" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-27" cx="837" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-28" cx="867" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-29" cx="897" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-30" cx="927" cy="234" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-31" cx="957" cy="234" r="2" />
+
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-00" cx="027" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-01" cx="057" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-02" cx="087" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-03" cx="117" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-04" cx="147" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-05" cx="177" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-06" cx="207" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-07" cx="237" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-08" cx="267" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-09" cx="297" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-10" cx="327" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-11" cx="357" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-12" cx="387" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-13" cx="417" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-14" cx="447" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-15" cx="477" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-16" cx="507" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-17" cx="537" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-18" cx="567" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-19" cx="597" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-20" cx="627" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-12" cx="657" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-22" cx="687" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-23" cx="717" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-24" cx="747" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-25" cx="777" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-26" cx="807" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-27" cx="837" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-28" cx="867" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-29" cx="897" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-30" cx="927" cy="264" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-31" cx="957" cy="264" r="2" />
+
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-00" cx="027" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-01" cx="057" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-02" cx="087" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-03" cx="117" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-04" cx="147" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-05" cx="177" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-06" cx="207" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-07" cx="237" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-08" cx="267" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-09" cx="297" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-10" cx="327" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-11" cx="357" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-12" cx="387" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-13" cx="417" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-14" cx="447" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-15" cx="477" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-16" cx="507" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-17" cx="537" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-18" cx="567" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-19" cx="597" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-20" cx="627" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-12" cx="657" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-22" cx="687" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-23" cx="717" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-24" cx="747" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-25" cx="777" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-26" cx="807" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-27" cx="837" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-28" cx="867" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-29" cx="897" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-30" cx="927" cy="294" r="2" />
+    <circle style="display:inline;fill:#ff0000;fill-opacity:1" id="hot-point-wait-31" cx="957" cy="294" r="2" />
+
   </g>
 </svg>
