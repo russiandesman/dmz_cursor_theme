@@ -1257,40 +1257,75 @@
          style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.41142859;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter6013);enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       id="g5728"
-       transform="translate(6.999997,-29.5)">
-      <path
-         id="path5709"
-         d="m 293.6875,42.875 v 16.4375 l 2.40625,-2.34375 c 0.76188,1.592958 2.13726,2.833522 3.8125,3.4375 0.0811,0.04173 0.15632,0.07322 0.25,0.09375 0.0215,0.0047 0.0405,-0.0036 0.0625,0 0.62547,0.191558 1.28081,0.3125 1.96875,0.3125 3.726,0 6.75,-3.024 6.75,-6.75 0,-3.726 -3.024,-6.75 -6.75,-6.75 -1.22874,0 -2.38222,0.331795 -3.375,0.90625 z"
-         style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5724);enable-background:accumulate"
-         inkscape:connector-curvature="0" />
-      <circle
-         transform="translate(1.75,1.25)"
-         id="path5705"
-         style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         cx="300.25"
-         cy="52.25"
-         r="6.75" />
-      <g
-         id="g5697"
-         inkscape:label="#g5607"
-         transform="translate(266.89511,39.979843)">
-        <path
-           sodipodi:nodetypes="cccccccc"
-           id="path5701"
-           d="M 26.604893,2.3179921 V 18.758225 l 3.712311,-3.623922 2.12132,4.331029 c 0.519598,1.171377 3.220861,0.229524 2.452777,-1.336875 l -2.099224,-4.496756 h 4.684582 z"
-           style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#linearGradient5735);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-           inkscape:connector-curvature="0" />
-      </g>
-      <circle
-         style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-         id="path5707"
-         transform="matrix(0.9259259,0,0,0.9259259,23.990741,5.1203704)"
-         cx="300.25"
-         cy="52.25"
-         r="6.75" />
-    </g>
+    <defs id="defs_wait_righthanded">
+        <symbol id="wait_righthanded_icon">
+              <path
+                 id="path5709"
+                 d="m 293.6875,42.875 v 16.4375 l 2.40625,-2.34375 c 0.76188,1.592958 2.13726,2.833522 3.8125,3.4375 0.0811,0.04173 0.15632,0.07322 0.25,0.09375 0.0215,0.0047 0.0405,-0.0036 0.0625,0 0.62547,0.191558 1.28081,0.3125 1.96875,0.3125 3.726,0 6.75,-3.024 6.75,-6.75 0,-3.726 -3.024,-6.75 -6.75,-6.75 -1.22874,0 -2.38222,0.331795 -3.375,0.90625 z"
+                 style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5724);enable-background:accumulate"
+                 inkscape:connector-curvature="0" />
+              <circle
+                 transform="translate(1.75,1.25)"
+                 id="path5705"
+                 style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 cx="300.25"
+                 cy="52.25"
+                 r="6.75" />
+              <g
+                 id="g5697"
+                 inkscape:label="#g5607"
+                 transform="translate(266.89511,39.979843)">
+                <path
+                   sodipodi:nodetypes="cccccccc"
+                   id="path5701"
+                   d="M 26.604893,2.3179921 V 18.758225 l 3.712311,-3.623922 2.12132,4.331029 c 0.519598,1.171377 3.220861,0.229524 2.452777,-1.336875 l -2.099224,-4.496756 h 4.684582 z"
+                   style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#linearGradient5735);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                   inkscape:connector-curvature="0" />
+              </g>
+              <circle
+                 style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+                 id="path5707"
+                 transform="matrix(0.9259259,0,0,0.9259259,23.990741,5.1203704)"
+                 cx="300.25"
+                 cy="52.25"
+                 r="6.75" />
+        </symbol>
+    </defs>
+
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_00_icon" transform="translate(-273,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_01_icon" transform="translate(-243,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_02_icon" transform="translate(-213,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_03_icon" transform="translate(-183,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_04_icon" transform="translate(-153,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_05_icon" transform="translate(-123,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_06_icon" transform="translate(-093,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_07_icon" transform="translate(-063,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_08_icon" transform="translate(-033,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_09_icon" transform="translate(-003,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_10_icon" transform="translate( 027,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_11_icon" transform="translate( 057,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_12_icon" transform="translate( 087,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_13_icon" transform="translate( 117,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_14_icon" transform="translate( 147,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_15_icon" transform="translate( 177,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_16_icon" transform="translate( 207,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_17_icon" transform="translate( 237,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_18_icon" transform="translate( 267,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_19_icon" transform="translate( 297,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_20_icon" transform="translate( 327,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_12_icon" transform="translate( 357,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_22_icon" transform="translate( 387,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_23_icon" transform="translate( 417,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_24_icon" transform="translate( 447,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_25_icon" transform="translate( 477,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_26_icon" transform="translate( 507,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_27_icon" transform="translate( 537,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_28_icon" transform="translate( 567,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_29_icon" transform="translate( 597,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_30_icon" transform="translate( 627,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_31_icon" transform="translate( 657,213)" />
+
+
     <defs id="defs_wait">
         <symbol id="wait_icon">
           <circle
@@ -2546,7 +2581,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="slices"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <rect
        style="opacity:0.52571429;color:#000000;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
