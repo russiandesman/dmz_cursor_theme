@@ -1325,7 +1325,39 @@
     <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_30_icon" transform="translate( 627,213)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_31_icon" transform="translate( 657,213)" />
 
-
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_00_icon" transform="translate(327,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_01_icon" transform="translate(357,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_02_icon" transform="translate(387,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_03_icon" transform="translate(417,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_04_icon" transform="translate(447,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_05_icon" transform="translate(477,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_06_icon" transform="translate(507,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_07_icon" transform="translate(537,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_08_icon" transform="translate(567,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_09_icon" transform="translate(597,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_10_icon" transform="translate(627,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_11_icon" transform="translate(657,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_12_icon" transform="translate(687,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_13_icon" transform="translate(717,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_14_icon" transform="translate(747,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_15_icon" transform="translate(777,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_16_icon" transform="translate(807,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_17_icon" transform="translate(837,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_18_icon" transform="translate(867,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_19_icon" transform="translate(897,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_20_icon" transform="translate(927,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_12_icon" transform="translate(957,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_22_icon" transform="translate(987,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_23_icon" transform="translate(1017,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_24_icon" transform="translate(1047,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_25_icon" transform="translate(1077,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_26_icon" transform="translate(1107,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_27_icon" transform="translate(1137,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_28_icon" transform="translate(1167,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_29_icon" transform="translate(1197,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_30_icon" transform="translate(1227,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_31_icon" transform="translate(1257,243) scale(-1, 1)" />
+    -->
     <defs id="defs_wait">
         <symbol id="wait_icon">
           <circle
@@ -2581,7 +2613,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="slices"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="opacity:0.52571429;color:#000000;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
