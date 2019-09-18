@@ -659,6 +659,54 @@
          id="feGaussianBlur11322" />
     </filter>
   </defs>
+  <defs id="progress">
+    <g>
+      <rect width="16" height="40" ry="8" id="part1" />
+      <rect width="16" height="30" ry="8" id="part2" />
+      <rect width="16" height="20" ry="8" id="part3" />
+      <rect width="16" height="16" ry="8" id="part4" />
+    </g>
+    <symbol id="progress1">
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(000,70,70)" fill="#000000" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" />
+    </symbol>
+    <symbol id="progress2">
+        <use xlink:href="#part2" x="62" y="10" transform="rotate(000,70,70)" fill="#000000" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" />
+    </symbol>
+    <symbol id="progress3">
+        <use xlink:href="#part3" x="62" y="20" transform="rotate(000,70,70)" fill="#000000" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" />
+    </symbol>
+    <symbol id="progress4">
+        <use xlink:href="#part4" x="62" y="24" transform="rotate(000,70,70)" fill="#000000" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" />
+        <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" />
+    </symbol>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
