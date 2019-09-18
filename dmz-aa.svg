@@ -1039,44 +1039,111 @@
        d="M 232,30 L 233.27643,26.309359 L 240.66345,12.344669 L 239.65143,12.246858 L 232.83893,25.434358 L 232,30 z "
        id="path5971"
        sodipodi:nodetypes="cccccc" />
-    <g
-       id="g5728"
-       transform="translate(6.999997,-29.5)">
-      <path
-         id="path5709"
-         d="M 293.8125,42.9375 L 293.8125,59.375 L 296.21875,57.03125 C 296.98063,58.624208 298.35601,59.864772 300.03125,60.46875 C 300.11234,60.510484 300.18757,60.541974 300.28125,60.5625 C 300.30275,60.567211 300.32175,60.558863 300.34375,60.5625 C 300.96922,60.754058 301.62456,60.875 302.3125,60.875 C 306.0385,60.875 309.0625,57.851 309.0625,54.125 C 309.0625,50.399 306.0385,47.375 302.3125,47.375 C 301.08376,47.375 299.93028,47.706795 298.9375,48.28125 L 293.8125,42.9375 z "
-         style="opacity:0.6;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;filter:url(#filter5724);enable-background:accumulate" />
-      <path
-         transform="translate(1.75,1.25)"
-         d="M 307,52.25 A 6.75,6.75 0 0 1 300.25,59 6.75,6.75 0 0 1 293.5,52.25 6.75,6.75 0 0 1 300.25,45.5 6.75,6.75 0 0 1 307,52.25 Z"
-         sodipodi:ry="6.75"
-         sodipodi:rx="6.75"
-         sodipodi:cy="52.25"
-         sodipodi:cx="300.25"
-         id="path5705"
-         style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
-         sodipodi:type="arc" />
-      <g
-         id="g5697"
-         inkscape:label="#g5607"
-         transform="translate(266.89511,39.979843)">
-        <path
-           sodipodi:nodetypes="cccccccc"
-           id="path5701"
-           d="M 26.604893,2.3179921 L 26.604893,18.758225 L 30.317204,15.134303 L 32.438524,19.465332 C 32.958122,20.636709 35.659385,19.694856 34.891301,18.128457 L 32.792077,13.631701 L 37.476659,13.631701 L 26.604893,2.3179921 z "
-           style="opacity:1;color:#000000;fill:url(#linearGradient5735);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;enable-background:accumulate" />
-      </g>
-      <path
-         sodipodi:type="arc"
-         style="opacity:1;color:#000000;fill:url(#radialGradient5997);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.108;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
-         id="path5707"
-         sodipodi:cx="300.25"
-         sodipodi:cy="52.25"
-         sodipodi:rx="6.75"
-         sodipodi:ry="6.75"
-         d="M 307,52.25 A 6.75,6.75 0 0 1 300.25,59 6.75,6.75 0 0 1 293.5,52.25 6.75,6.75 0 0 1 300.25,45.5 6.75,6.75 0 0 1 307,52.25 Z"
-         transform="matrix(0.9259259,0,0,0.9259259,23.990741,5.1203704)" />
-    </g>
+    <defs id="defs_wait_righthanded">
+        <symbol id="wait_righthanded_icon">
+              <path
+                 id="path5709"
+                 d="M 293.8125,42.9375 L 293.8125,59.375 L 296.21875,57.03125 C 296.98063,58.624208 298.35601,59.864772 300.03125,60.46875 C 300.11234,60.510484 300.18757,60.541974 300.28125,60.5625 C 300.30275,60.567211 300.32175,60.558863 300.34375,60.5625 C 300.96922,60.754058 301.62456,60.875 302.3125,60.875 C 306.0385,60.875 309.0625,57.851 309.0625,54.125 C 309.0625,50.399 306.0385,47.375 302.3125,47.375 C 301.08376,47.375 299.93028,47.706795 298.9375,48.28125 L 293.8125,42.9375 z "
+                 style="opacity:0.6;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;filter:url(#filter5724);enable-background:accumulate" />
+              <path
+                 transform="translate(1.75,1.25)"
+                 d="M 307,52.25 A 6.75,6.75 0 0 1 300.25,59 6.75,6.75 0 0 1 293.5,52.25 6.75,6.75 0 0 1 300.25,45.5 6.75,6.75 0 0 1 307,52.25 Z"
+                 sodipodi:ry="6.75"
+                 sodipodi:rx="6.75"
+                 sodipodi:cy="52.25"
+                 sodipodi:cx="300.25"
+                 id="path5705"
+                 style="opacity:1;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
+                 sodipodi:type="arc" />
+              <g
+                 id="g5697"
+                 inkscape:label="#g5607"
+                 transform="translate(266.89511,39.979843)">
+                <path
+                   sodipodi:nodetypes="cccccccc"
+                   id="path5701"
+                   d="M 26.604893,2.3179921 L 26.604893,18.758225 L 30.317204,15.134303 L 32.438524,19.465332 C 32.958122,20.636709 35.659385,19.694856 34.891301,18.128457 L 32.792077,13.631701 L 37.476659,13.631701 L 26.604893,2.3179921 z "
+                   style="opacity:1;color:#000000;fill:url(#linearGradient5735);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;enable-background:accumulate" />
+              </g>
+              <path
+                 sodipodi:type="arc"
+                 style="opacity:1;color:#000000;fill:url(#radialGradient5997);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.108;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible;enable-background:accumulate"
+                 id="path5707"
+                 sodipodi:cx="300.25"
+                 sodipodi:cy="52.25"
+                 sodipodi:rx="6.75"
+                 sodipodi:ry="6.75"
+                 d="M 307,52.25 A 6.75,6.75 0 0 1 300.25,59 6.75,6.75 0 0 1 293.5,52.25 6.75,6.75 0 0 1 300.25,45.5 6.75,6.75 0 0 1 307,52.25 Z"
+                 transform="matrix(0.9259259,0,0,0.9259259,23.990741,5.1203704)" />
+        </symbol>
+    </defs>
+
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_00_icon" transform="translate(-273,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_01_icon" transform="translate(-243,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_02_icon" transform="translate(-213,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_03_icon" transform="translate(-183,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_04_icon" transform="translate(-153,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_05_icon" transform="translate(-123,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_06_icon" transform="translate(-093,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_07_icon" transform="translate(-063,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_08_icon" transform="translate(-033,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_09_icon" transform="translate(-003,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_10_icon" transform="translate( 027,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_11_icon" transform="translate( 057,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_12_icon" transform="translate( 087,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_13_icon" transform="translate( 117,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_14_icon" transform="translate( 147,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_15_icon" transform="translate( 177,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_16_icon" transform="translate( 207,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_17_icon" transform="translate( 237,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_18_icon" transform="translate( 267,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_19_icon" transform="translate( 297,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_20_icon" transform="translate( 327,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_12_icon" transform="translate( 357,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_22_icon" transform="translate( 387,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_23_icon" transform="translate( 417,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_24_icon" transform="translate( 447,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_25_icon" transform="translate( 477,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_26_icon" transform="translate( 507,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_27_icon" transform="translate( 537,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_28_icon" transform="translate( 567,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_29_icon" transform="translate( 597,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_30_icon" transform="translate( 627,213)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_31_icon" transform="translate( 657,213)" />
+
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_00_icon" transform="translate(327,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_01_icon" transform="translate(357,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_02_icon" transform="translate(387,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_03_icon" transform="translate(417,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_04_icon" transform="translate(447,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_05_icon" transform="translate(477,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_06_icon" transform="translate(507,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_07_icon" transform="translate(537,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_08_icon" transform="translate(567,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_09_icon" transform="translate(597,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_10_icon" transform="translate(627,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_11_icon" transform="translate(657,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_12_icon" transform="translate(687,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_13_icon" transform="translate(717,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_14_icon" transform="translate(747,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_15_icon" transform="translate(777,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_16_icon" transform="translate(807,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_17_icon" transform="translate(837,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_18_icon" transform="translate(867,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_19_icon" transform="translate(897,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_20_icon" transform="translate(927,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_12_icon" transform="translate(957,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_22_icon" transform="translate(987,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_23_icon" transform="translate(1017,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_24_icon" transform="translate(1047,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_25_icon" transform="translate(1077,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_26_icon" transform="translate(1107,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_27_icon" transform="translate(1137,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_28_icon" transform="translate(1167,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_29_icon" transform="translate(1197,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_30_icon" transform="translate(1227,243) scale(-1, 1)" />
+    <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_31_icon" transform="translate(1257,243) scale(-1, 1)" />
+    
     <defs id="defs_wait">
       <symbol id="wait_icon">
          <path
