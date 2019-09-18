@@ -1357,7 +1357,7 @@
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_29_icon" transform="translate(1197,243) scale(-1, 1)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_30_icon" transform="translate(1227,243) scale(-1, 1)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_31_icon" transform="translate(1257,243) scale(-1, 1)" />
-    -->
+
     <defs id="defs_wait">
         <symbol id="wait_icon">
           <circle
