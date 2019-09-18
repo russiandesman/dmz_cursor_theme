@@ -660,7 +660,7 @@
     </filter>
   </defs>
   <defs id="progress">
-    <g>
+    <g id="parts">
       <rect width="16" height="40" ry="8" id="part1" />
       <rect width="16" height="30" ry="8" id="part2" />
       <rect width="16" height="20" ry="8" id="part3" />
@@ -1291,7 +1291,7 @@
          cy="52.25"
          r="6.75" />
     </g>
-    <defs>
+    <defs id="defs_wait">
         <symbol id="wait_icon">
           <circle
              id="path5739"

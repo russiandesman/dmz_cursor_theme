@@ -726,7 +726,7 @@
     </filter>
   </defs>
   <defs id="progress">
-    <g>
+    <g id="parts">
       <rect width="16" height="40" ry="8" id="part1" />
       <rect width="16" height="30" ry="8" id="part2" />
       <rect width="16" height="20" ry="8" id="part3" />
@@ -1077,7 +1077,7 @@
          d="M 307,52.25 A 6.75,6.75 0 0 1 300.25,59 6.75,6.75 0 0 1 293.5,52.25 6.75,6.75 0 0 1 300.25,45.5 6.75,6.75 0 0 1 307,52.25 Z"
          transform="matrix(0.9259259,0,0,0.9259259,23.990741,5.1203704)" />
     </g>
-    <defs>
+    <defs id="defs_wait">
       <symbol id="wait_icon">
          <path
             transform="matrix(0.894419,0,0,0.894419,-209.9944,39.131376)"
