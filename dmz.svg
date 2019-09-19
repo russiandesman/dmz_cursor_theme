@@ -1325,6 +1325,40 @@
     <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_30_icon" transform="translate( 627,213)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_righthanded_31_icon" transform="translate( 657,213)" />
 
+    <use xlink:href="#progress4" id="wait_righthanded_00_progress" transform="matrix(0.07,0,0,0.07,024.118718,261.51647) rotate(000,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_01_progress" transform="matrix(0.07,0,0,0.07,054.118718,261.51647) rotate(000,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_02_progress" transform="matrix(0.07,0,0,0.07,084.118718,261.51647) rotate(000,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_03_progress" transform="matrix(0.07,0,0,0.07,114.118718,261.51647) rotate(000,70,70)"/>
+    <use xlink:href="#progress4" id="wait_righthanded_04_progress" transform="matrix(0.07,0,0,0.07,144.118718,261.51647) rotate(045,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_05_progress" transform="matrix(0.07,0,0,0.07,174.118718,261.51647) rotate(045,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_06_progress" transform="matrix(0.07,0,0,0.07,204.118718,261.51647) rotate(045,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_07_progress" transform="matrix(0.07,0,0,0.07,234.118718,261.51647) rotate(045,70,70)"/>
+    <use xlink:href="#progress4" id="wait_righthanded_08_progress" transform="matrix(0.07,0,0,0.07,264.118718,261.51647) rotate(090,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_09_progress" transform="matrix(0.07,0,0,0.07,294.118718,261.51647) rotate(090,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_10_progress" transform="matrix(0.07,0,0,0.07,324.118718,261.51647) rotate(090,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_11_progress" transform="matrix(0.07,0,0,0.07,354.118718,261.51647) rotate(090,70,70)"/>
+    <use xlink:href="#progress4" id="wait_righthanded_12_progress" transform="matrix(0.07,0,0,0.07,384.118718,261.51647) rotate(135,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_13_progress" transform="matrix(0.07,0,0,0.07,414.118718,261.51647) rotate(135,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_14_progress" transform="matrix(0.07,0,0,0.07,444.118718,261.51647) rotate(135,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_15_progress" transform="matrix(0.07,0,0,0.07,474.118718,261.51647) rotate(135,70,70)"/>
+    <use xlink:href="#progress4" id="wait_righthanded_16_progress" transform="matrix(0.07,0,0,0.07,504.118718,261.51647) rotate(180,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_17_progress" transform="matrix(0.07,0,0,0.07,534.118718,261.51647) rotate(180,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_18_progress" transform="matrix(0.07,0,0,0.07,564.118718,261.51647) rotate(180,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_19_progress" transform="matrix(0.07,0,0,0.07,594.118718,261.51647) rotate(180,70,70)"/>
+    <use xlink:href="#progress4" id="wait_righthanded_20_progress" transform="matrix(0.07,0,0,0.07,624.118718,261.51647) rotate(225,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_12_progress" transform="matrix(0.07,0,0,0.07,654.118718,261.51647) rotate(225,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_22_progress" transform="matrix(0.07,0,0,0.07,684.118718,261.51647) rotate(225,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_23_progress" transform="matrix(0.07,0,0,0.07,714.118718,261.51647) rotate(225,70,70)"/>
+    <use xlink:href="#progress4" id="wait_righthanded_24_progress" transform="matrix(0.07,0,0,0.07,744.118718,261.51647) rotate(270,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_25_progress" transform="matrix(0.07,0,0,0.07,774.118718,261.51647) rotate(270,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_26_progress" transform="matrix(0.07,0,0,0.07,804.118718,261.51647) rotate(270,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_27_progress" transform="matrix(0.07,0,0,0.07,834.118718,261.51647) rotate(270,70,70)"/>
+    <use xlink:href="#progress4" id="wait_righthanded_28_progress" transform="matrix(0.07,0,0,0.07,864.118718,261.51647) rotate(315,70,70)"/>
+    <use xlink:href="#progress3" id="wait_righthanded_29_progress" transform="matrix(0.07,0,0,0.07,894.118718,261.51647) rotate(315,70,70)"/>
+    <use xlink:href="#progress2" id="wait_righthanded_30_progress" transform="matrix(0.07,0,0,0.07,924.118718,261.51647) rotate(315,70,70)"/>
+    <use xlink:href="#progress1" id="wait_righthanded_31_progress" transform="matrix(0.07,0,0,0.07,954.118718,261.51647) rotate(315,70,70)"/>
+
+
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_00_icon" transform="translate(327,243) scale(-1, 1)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_01_icon" transform="translate(357,243) scale(-1, 1)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_02_icon" transform="translate(387,243) scale(-1, 1)" />
@@ -1357,6 +1391,40 @@
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_29_icon" transform="translate(1197,243) scale(-1, 1)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_30_icon" transform="translate(1227,243) scale(-1, 1)" />
     <use xlink:href="#wait_righthanded_icon" id="wait_lefthanded_31_icon" transform="translate(1257,243) scale(-1, 1)" />
+
+    <use xlink:href="#progress4" id="wait_lefthanded_00_progress" transform="matrix(0.07,0,0,0.07,020.053077,291.6042) rotate(000,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_01_progress" transform="matrix(0.07,0,0,0.07,050.053077,291.6042) rotate(000,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_02_progress" transform="matrix(0.07,0,0,0.07,080.053077,291.6042) rotate(000,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_03_progress" transform="matrix(0.07,0,0,0.07,110.053077,291.6042) rotate(000,70,70)"/>
+    <use xlink:href="#progress4" id="wait_lefthanded_04_progress" transform="matrix(0.07,0,0,0.07,140.053077,291.6042) rotate(045,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_05_progress" transform="matrix(0.07,0,0,0.07,170.053077,291.6042) rotate(045,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_06_progress" transform="matrix(0.07,0,0,0.07,200.053077,291.6042) rotate(045,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_07_progress" transform="matrix(0.07,0,0,0.07,230.053077,291.6042) rotate(045,70,70)"/>
+    <use xlink:href="#progress4" id="wait_lefthanded_08_progress" transform="matrix(0.07,0,0,0.07,260.053077,291.6042) rotate(090,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_09_progress" transform="matrix(0.07,0,0,0.07,290.053077,291.6042) rotate(090,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_10_progress" transform="matrix(0.07,0,0,0.07,320.053077,291.6042) rotate(090,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_11_progress" transform="matrix(0.07,0,0,0.07,350.053077,291.6042) rotate(090,70,70)"/>
+    <use xlink:href="#progress4" id="wait_lefthanded_12_progress" transform="matrix(0.07,0,0,0.07,380.053077,291.6042) rotate(135,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_13_progress" transform="matrix(0.07,0,0,0.07,410.053077,291.6042) rotate(135,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_14_progress" transform="matrix(0.07,0,0,0.07,440.053077,291.6042) rotate(135,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_15_progress" transform="matrix(0.07,0,0,0.07,470.053077,291.6042) rotate(135,70,70)"/>
+    <use xlink:href="#progress4" id="wait_lefthanded_16_progress" transform="matrix(0.07,0,0,0.07,500.053077,291.6042) rotate(180,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_17_progress" transform="matrix(0.07,0,0,0.07,530.053077,291.6042) rotate(180,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_18_progress" transform="matrix(0.07,0,0,0.07,560.053077,291.6042) rotate(180,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_19_progress" transform="matrix(0.07,0,0,0.07,590.053077,291.6042) rotate(180,70,70)"/>
+    <use xlink:href="#progress4" id="wait_lefthanded_20_progress" transform="matrix(0.07,0,0,0.07,620.053077,291.6042) rotate(225,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_12_progress" transform="matrix(0.07,0,0,0.07,650.053077,291.6042) rotate(225,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_22_progress" transform="matrix(0.07,0,0,0.07,680.053077,291.6042) rotate(225,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_23_progress" transform="matrix(0.07,0,0,0.07,710.053077,291.6042) rotate(225,70,70)"/>
+    <use xlink:href="#progress4" id="wait_lefthanded_24_progress" transform="matrix(0.07,0,0,0.07,740.053077,291.6042) rotate(270,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_25_progress" transform="matrix(0.07,0,0,0.07,770.053077,291.6042) rotate(270,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_26_progress" transform="matrix(0.07,0,0,0.07,800.053077,291.6042) rotate(270,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_27_progress" transform="matrix(0.07,0,0,0.07,830.053077,291.6042) rotate(270,70,70)"/>
+    <use xlink:href="#progress4" id="wait_lefthanded_28_progress" transform="matrix(0.07,0,0,0.07,860.053077,291.6042) rotate(315,70,70)"/>
+    <use xlink:href="#progress3" id="wait_lefthanded_29_progress" transform="matrix(0.07,0,0,0.07,890.053077,291.6042) rotate(315,70,70)"/>
+    <use xlink:href="#progress2" id="wait_lefthanded_30_progress" transform="matrix(0.07,0,0,0.07,920.053077,291.6042) rotate(315,70,70)"/>
+    <use xlink:href="#progress1" id="wait_lefthanded_31_progress" transform="matrix(0.07,0,0,0.07,950.053077,291.6042) rotate(315,70,70)"/>
+
 
     <defs id="defs_wait">
         <symbol id="wait_icon">
