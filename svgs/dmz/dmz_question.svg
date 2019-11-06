@@ -163,9 +163,11 @@
       <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5747);enable-background:accumulate" d="m 22.4375,61.562499 4.9375,5.125 5.125,-5.125 h -3 c 0,-3.380186 3.9375,-3.271564 3.9375,-7.375 0,-7.161157 -12.0625,-8.282349 -12.0625,1.3125 H 25 c 0,-3.731006 4.5,-3.774902 4.5,-1.125 0,1.792623 -4.125,2.8125 -4,7.1875 z" id="path5745" sodipodi:nodetypes="ccccsccscc"/>
       <path inkscape:connector-curvature="0" sodipodi:nodetypes="ccccsccscc" id="path5743" d="m 21.5625,60.562499 4.9375,5.125 5.125,-5.125 h -3 c 0,-3.380186 3.9375,-3.271564 3.9375,-7.375 0,-7.161157 -12.0625,-8.282349 -12.0625,1.3125 h 3.625 c 0,-3.731006 4.5,-3.774902 4.5,-1.125 0,1.792623 -4.125,2.8125 -4,7.1875 z" style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
     </g>
-    <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-      <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="45" x="15" height="24" width="24" id="question_arrow"/>
-      <circle r="2" cy="66.5" cx="27.5" id="hot-point-70" style="display:inline;fill:#ff0000;fill-opacity:1"/>
-    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="45" x="15" height="24" width="24" id="question_arrow"/>
+  </g>
+  <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
+    <circle r="2" cy="66.5" cx="27.5" id="hot-point-70" style="display:inline;fill:#ff0000;fill-opacity:1"/>
   </g>
 </svg>

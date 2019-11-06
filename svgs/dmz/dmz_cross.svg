@@ -164,9 +164,11 @@
       <path inkscape:connector-curvature="0" id="rect6024" d="m 337.9375,15.4375 c -0.27159,0 -0.5419,0.10439 -0.75,0.3125 l -1.59375,1.5625 c -0.41622,0.416221 -0.41622,1.08378 0,1.5 l 2.75,2.75 -2.75,2.71875 c -0.41623,0.41622 -0.41622,1.083779 0,1.5 l 1.59375,1.5625 c 0.41621,0.416222 1.08378,0.416221 1.5,0 l 2.71875,-2.71875 2.75,2.71875 c 0.41622,0.416221 1.08378,0.416222 1.5,0 l 1.5625,-1.5625 c 0.41622,-0.416221 0.41621,-1.08378 0,-1.5 L 344.5,21.5625 l 2.71875,-2.75 c 0.41621,-0.41622 0.41622,-1.083779 0,-1.5 l -1.5625,-1.5625 c -0.41622,-0.41622 -1.08378,-0.416221 -1.5,0 l -2.75,2.71875 L 338.6875,15.75 c -0.20811,-0.20811 -0.47841,-0.3125 -0.75,-0.3125 z" style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
       <path inkscape:connector-curvature="0" id="path6039" d="m 336,25 1.82027,1.780201 3.53553,-3.447145 3.49134,3.535534 1.81196,-1.767767 -1.85616,1.149048 -3.53553,-3.712311 -3.49134,3.579729 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter5791);enable-background:accumulate"/>
     </g>
-    <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-      <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="10" x="330" height="24" width="24" id="X_cursor"/>
-      <circle r="2" cy="21" cx="342" id="hot-point-2" style="display:inline;fill:#ff0000;fill-opacity:1"/>
-    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="10" x="330" height="24" width="24" id="X_cursor"/>
+  </g>
+  <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
+    <circle r="2" cy="21" cx="342" id="hot-point-2" style="display:inline;fill:#ff0000;fill-opacity:1"/>
   </g>
 </svg>

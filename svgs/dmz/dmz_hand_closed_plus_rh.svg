@@ -190,11 +190,11 @@
         <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter5795);enable-background:accumulate" d="m 235,15 -0.0625,-1 H 232 l -1,1 z" id="path6288" sodipodi:nodetypes="ccccc"/>
       </g>
     </g>
-    <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-      <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="259" height="24" width="24" id="dnd-copy"/>
-    </g>
-    <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
-      <circle r="2" cy="126.5" cx="268.5" id="hot-point-937" style="display:inline;fill:#ff0000;fill-opacity:1"/>
-    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="259" height="24" width="24" id="dnd-copy"/>
+  </g>
+  <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
+    <circle r="2" cy="126.5" cx="268.5" id="hot-point-937" style="display:inline;fill:#ff0000;fill-opacity:1"/>
   </g>
 </svg>

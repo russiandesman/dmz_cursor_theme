@@ -191,9 +191,11 @@
         <rect transform="matrix(-0.02422582,-0.9997065,-0.9997929,0.02035144,0,0)" ry="1.3553455" rx="1.4999895" y="-34.280689" x="-134.66162" height="2.9575093" width="4.5180497" id="rect6302" style="color:#000000;display:block;overflow:visible;visibility:visible;fill:none;stroke:#ffffff;stroke-width:1.00000381;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"/>
       </g>
     </g>
-    <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-      <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="294" height="24" width="24" id="dnd-link"/>
-      <circle r="2" cy="125.5" cx="304.5" id="hot-point-45" style="display:inline;fill:#ff0000;fill-opacity:1"/>
-    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="294" height="24" width="24" id="dnd-link"/>
+  </g>
+  <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
+    <circle r="2" cy="125.5" cx="304.5" id="hot-point-45" style="display:inline;fill:#ff0000;fill-opacity:1"/>
   </g>
 </svg>

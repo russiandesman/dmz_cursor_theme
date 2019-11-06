@@ -164,9 +164,11 @@
       <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" d="m 200.49818,155.20894 v 4.25 h 9.0625 v 4 h -9.0625 v 4.25 l -6.3125,-6.25 z" id="path6183" sodipodi:nodetypes="cccccccc"/>
       <path inkscape:connector-curvature="0" transform="matrix(-1,0,0,1,403.03924,-0.08838835)" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;filter:url(#filter5791);enable-background:accumulate" d="m 194.33646,160.2908 v 2.47487 h 9.01561 v 3.00521 l 4.41942,-4.24264 -4.15425,3.09359 v -2.74004 h -8.75045 z" id="path6185"/>
     </g>
-    <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-      <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="150" x="189" height="24" width="24" id="sb_left_arrow"/>
-      <circle r="2" cy="161.41422" cx="194.38649" id="hot-point-84" style="display:inline;fill:#ff0000;fill-opacity:1"/>
-    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="150" x="189" height="24" width="24" id="sb_left_arrow"/>
+  </g>
+  <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
+    <circle r="2" cy="161.41422" cx="194.38649" id="hot-point-84" style="display:inline;fill:#ff0000;fill-opacity:1"/>
   </g>
 </svg>
