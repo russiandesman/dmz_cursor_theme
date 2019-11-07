@@ -235,7 +235,7 @@
         <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
       </text>
     </g>
-    <g id="g1711" inkscape:label="group_wait_animated">
+    <g id="g1711" inkscape:label="group_wait">
       <use height="100%" width="100%" y="0" x="0" transform="translate(-35,177)" id="wait_00_icon" xlink:href="#wait_icon" style="display:inline"/>
       <use height="100%" width="100%" y="0" x="0" transform="translate(-5,177)" id="wait_01_icon" xlink:href="#wait_icon" style="display:inline"/>
       <use height="100%" width="100%" y="0" x="0" transform="translate(25,177)" id="wait_02_icon" xlink:href="#wait_icon" style="display:inline"/>

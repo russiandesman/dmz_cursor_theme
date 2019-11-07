@@ -169,7 +169,7 @@
         <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
       </text>
     </g>
-    <g id="g2378" inkscape:label="group_lr_to_ul">
+    <g id="g2378" inkscape:label="group_bd_double_arrow">
       <path inkscape:connector-curvature="0" transform="matrix(-1,0,0,1,124.1758,0)" sodipodi:nodetypes="ccccccccccc" id="path6134" d="m 54.085602,160.33369 v 8.77634 h 8.776334 l -2.781092,-2.88021 4.902413,-5.12652 3.104315,3.45787 v -9.31739 h -8.547781 l 2.573985,3.00521 -5.100636,5.15241 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter6130);enable-background:accumulate"/>
       <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" d="m 69.529512,159.58369 v 8.77634 h -8.776334 l 2.781092,-2.88021 -4.902413,-5.12652 -3.104315,3.45787 v -9.31739 h 8.547781 l -2.573985,3.00521 5.100636,5.15241 z" id="path6136" sodipodi:nodetypes="ccccccccccc"/>
     </g>

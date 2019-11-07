@@ -169,7 +169,7 @@
         <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
       </text>
     </g>
-    <g id="g1934" inkscape:label="group_question">
+    <g id="g1934" inkscape:label="group_question_arrow">
       <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter5747);enable-background:accumulate" d="m 22.4375,61.562499 4.9375,5.125 5.125,-5.125 h -3 c 0,-3.380186 3.9375,-3.271564 3.9375,-7.375 0,-7.161157 -12.0625,-8.282349 -12.0625,1.3125 H 25 c 0,-3.731006 4.5,-3.774902 4.5,-1.125 0,1.792623 -4.125,2.8125 -4,7.1875 z" id="path5745" sodipodi:nodetypes="ccccsccscc"/>
       <path inkscape:connector-curvature="0" sodipodi:nodetypes="ccccsccscc" id="path5743" d="m 21.5625,60.562499 4.9375,5.125 5.125,-5.125 h -3 c 0,-3.380186 3.9375,-3.271564 3.9375,-7.375 0,-7.161157 -12.0625,-8.282349 -12.0625,1.3125 h 3.625 c 0,-3.731006 4.5,-3.774902 4.5,-1.125 0,1.792623 -4.125,2.8125 -4,7.1875 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"/>
     </g>
