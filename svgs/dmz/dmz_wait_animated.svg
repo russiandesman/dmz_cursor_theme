@@ -194,16 +194,6 @@
       <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" id="use183"/>
     </symbol>
   </defs>
-  <defs id="defs_wait_righthanded">
-    <symbol id="wait_righthanded_icon">
-      <path id="path5709" d="m 293.6875,42.875 v 16.4375 l 2.40625,-2.34375 c 0.76188,1.592958 2.13726,2.833522 3.8125,3.4375 0.0811,0.04173 0.15632,0.07322 0.25,0.09375 0.0215,0.0047 0.0405,-0.0036 0.0625,0 0.62547,0.191558 1.28081,0.3125 1.96875,0.3125 3.726,0 6.75,-3.024 6.75,-6.75 0,-3.726 -3.024,-6.75 -6.75,-6.75 -1.22874,0 -2.38222,0.331795 -3.375,0.90625 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5724);enable-background:accumulate" inkscape:connector-curvature="0"/>
-      <circle transform="translate(1.75,1.25)" id="path5705" style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" cx="300.25" cy="52.25" r="6.75"/>
-      <g id="g5697" inkscape:label="#g5607" transform="translate(266.89511,39.979843)">
-        <path sodipodi:nodetypes="cccccccc" id="path5701" d="M 26.604893,2.3179921 V 18.758225 l 3.712311,-3.623922 2.12132,4.331029 c 0.519598,1.171377 3.220861,0.229524 2.452777,-1.336875 l -2.099224,-4.496756 h 4.684582 z" style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#linearGradient5735);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" inkscape:connector-curvature="0"/>
-      </g>
-      <circle style="color:#000000;display:block;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" id="path5707" transform="matrix(0.9259259,0,0,0.9259259,23.990741,5.1203704)" cx="300.25" cy="52.25" r="6.75"/>
-    </symbol>
-  </defs>
   <defs id="defs_wait">
     <symbol id="wait_icon">
       <circle id="path5739" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;filter:url(#filter5741);enable-background:accumulate" cx="0" cy="0" r="8.5380707"/>
