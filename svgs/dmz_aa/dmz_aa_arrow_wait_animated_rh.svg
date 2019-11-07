@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1000" height="500" id="svg2" sodipodi:version="0.32" inkscape:version="0.92.3 (2405546, 2018-03-11)" version="1.0" sodipodi:docname="dmz-aa.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" inkscape:export-filename="/home/jimmac/gfx/ximian/art/cursors/dmz-aa/dmz-aa.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90" sodipodi:modified="true">
+  <defs id="defs4">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 200 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="400 : 200 : 1" inkscape:persp3d-origin="200 : 133.33333 : 1" id="perspective4280"/>
+    <linearGradient inkscape:collect="always" id="linearGradient5987">
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop5989"/>
+      <stop style="stop-color:#ffffff;stop-opacity:0;" offset="1" id="stop5991"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5724">
+      <stop id="stop5726" offset="0" style="stop-color:#000000;stop-opacity:1;"/>
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0.33333334" id="stop5728"/>
+      <stop id="stop5730" offset="1" style="stop-color:#313131;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5745">
+      <stop style="stop-color:#ffffff;stop-opacity:1;" offset="0" id="stop5747"/>
+      <stop id="stop5753" offset="0.5" style="stop-color:#ffffff;stop-opacity:1;"/>
+      <stop style="stop-color:#d6d6d6;stop-opacity:1;" offset="1" id="stop5749"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5965">
+      <stop id="stop5967" offset="0" style="stop-color:#797979;stop-opacity:1;"/>
+      <stop id="stop5969" offset="1" style="stop-color:#000000;stop-opacity:1;"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5716">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop5718"/>
+      <stop style="stop-color:#484848;stop-opacity:1;" offset="1" id="stop5720"/>
+    </linearGradient>
+    <filter inkscape:collect="always" x="-0.10291173" width="1.2058235" y="-0.065432459" height="1.1308649" id="filter5601">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.610872" id="feGaussianBlur5603"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5712">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.645681" id="feGaussianBlur5714"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient5885" x1="29.089951" y1="11.772627" x2="33.971455" y2="9.7093649" gradientUnits="userSpaceOnUse"/>
+    <filter inkscape:collect="always" id="filter5643">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.56" id="feGaussianBlur5645"/>
+    </filter>
+    <filter inkscape:collect="always" x="-0.75428569" width="2.5085714" y="-0.18857142" height="1.3771429" id="filter5783">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.37714286" id="feGaussianBlur5785"/>
+    </filter>
+    <filter inkscape:collect="always" x="-0.75428569" width="2.5085714" y="-0.18857142" height="1.3771429" id="filter5787">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.37714286" id="feGaussianBlur5789"/>
+    </filter>
+    <filter inkscape:collect="always" x="-0.15085714" width="1.3017143" y="-0.15085714" height="1.3017143" id="filter5791">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.37714286" id="feGaussianBlur5793"/>
+    </filter>
+    <filter inkscape:collect="always" x="-0.18857142" width="1.3771429" y="-0.75428569" height="2.5085714" id="filter5795">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.37714286" id="feGaussianBlur5797"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient5841" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.7178393,70.927237,5.0429461)" x1="112.42966" y1="15.217949" x2="112.42966" y2="21.001818"/>
+    <filter inkscape:collect="always" id="filter5894">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.69763997" id="feGaussianBlur5896"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient5918" x1="238.16759" y1="18.752937" x2="239.99883" y2="19.752937" gradientUnits="userSpaceOnUse"/>
+    <filter inkscape:collect="always" x="-0.13142857" width="1.2628571" y="-0.057500001" height="1.115" id="filter5949">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.46" id="feGaussianBlur5951"/>
+    </filter>
+    <filter inkscape:collect="always" x="-0.10998256" width="1.2199651" y="-0.062862836" height="1.1257257" id="filter5959">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.6825779" id="feGaussianBlur5961"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter6013">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.15857143" id="feGaussianBlur6015"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient4708" gradientUnits="userSpaceOnUse" x1="30.415775" y1="11.153909" x2="26.104893" y2="13.244899" gradientTransform="matrix(1,0,0,-1,265.49301,591.02016)"/>
+    <filter inkscape:collect="always" id="filter5724">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.70375" id="feGaussianBlur5726"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient5735" gradientUnits="userSpaceOnUse" x1="29.355116" y1="10.270025" x2="32.040775" y2="6.2622194"/>
+    <filter inkscape:collect="always" id="filter5741">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.80367531" id="feGaussianBlur5743"/>
+    </filter>
+    <radialGradient inkscape:collect="always" xlink:href="#linearGradient5724" id="radialGradient5789" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.028844,0,0,1.028844,-8.7956992,-0.2316755)" cx="304.93979" cy="22.664869" fx="304.93979" fy="22.664869" r="10.045941"/>
+    <filter inkscape:collect="always" id="filter5747">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.64379914" id="feGaussianBlur5749"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5890">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.69760924" id="feGaussianBlur5892"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5895">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.69760946" id="feGaussianBlur5897"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5899">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.6976096" id="feGaussianBlur5901"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5903">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.6976096" id="feGaussianBlur5905"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5907">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.68505155" id="feGaussianBlur5909"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5911">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.68692655" id="feGaussianBlur5913"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5915">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.68630155" id="feGaussianBlur5917"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter5919">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.68567655" id="feGaussianBlur5921"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter6035">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.52935492" id="feGaussianBlur6037"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter6152">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.68006967" id="feGaussianBlur6154"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6261" gradientUnits="userSpaceOnUse" x1="28.915775" y1="12.278909" x2="34.229893" y2="9.8698988"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient4908" gradientUnits="userSpaceOnUse" x1="29.415775" y1="11.903909" x2="33.729893" y2="9.1198988"/>
+    <radialGradient inkscape:collect="always" xlink:href="#linearGradient5724" id="radialGradient4930" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.2443906,0,0,1.2443906,-282.30215,101.25286)" cx="304.93979" cy="23.214186" fx="304.93979" fy="23.214186" r="10.045941"/>
+    <filter inkscape:collect="always" id="filter5904">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.71952676" id="feGaussianBlur5906"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6027" gradientUnits="userSpaceOnUse" x1="133" y1="127.75" x2="133" y2="135" gradientTransform="translate(-2,1)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6029" gradientUnits="userSpaceOnUse" x1="133.00002" y1="128.25" x2="133.00002" y2="134.99998"/>
+    <filter inkscape:collect="always" id="filter6037">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.6" id="feGaussianBlur6039"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter6051">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.80000017" id="feGaussianBlur6053"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6141" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.667094,0,0,0.4717699,158.43011,116.8852)" x1="112.42966" y1="9.9187555" x2="112.24228" y2="4.3093581"/>
+    <filter inkscape:collect="always" id="filter6130">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.5973644" id="feGaussianBlur6132"/>
+    </filter>
+    <filter inkscape:collect="always" x="-0.10045872" width="1.2009174" y="-0.06646434" height="1.1329287" id="filter6153">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.684375" id="feGaussianBlur6155"/>
+    </filter>
+    <filter inkscape:collect="always" id="filter6177">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.5975" id="feGaussianBlur6179"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6210" gradientUnits="userSpaceOnUse" gradientTransform="translate(174.03904,37.032934)" x1="133" y1="125.10307" x2="133" y2="118.07928"/>
+    <filter inkscape:collect="always" id="filter6254">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.84" id="feGaussianBlur6256"/>
+    </filter>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6293" gradientUnits="userSpaceOnUse" x1="112.12776" y1="8.7956829" x2="112.12776" y2="4.0191207" gradientTransform="translate(-49.00276,10.907504)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6324" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.7178393,-14.056043,14.042946)" x1="112.42966" y1="15.217949" x2="112.42966" y2="21.001818"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6393" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.667094,0,0,0.4717699,158.43011,116.8852)" x1="112.42966" y1="9.9187555" x2="112.24228" y2="4.3093581"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6417" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.667094,0,0,0.4717699,158.43011,116.8852)" x1="112.42966" y1="9.9187555" x2="112.24228" y2="4.3093581"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6480" gradientUnits="userSpaceOnUse" gradientTransform="translate(-49.00276,10.907504)" x1="112.12776" y1="8.7956829" x2="112.12776" y2="4.0191207"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6488" gradientUnits="userSpaceOnUse" x1="29.089951" y1="11.772627" x2="33.971455" y2="9.7093649"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5965" id="linearGradient6503" gradientUnits="userSpaceOnUse" x1="236.91759" y1="18.190437" x2="239.99883" y2="19.752937" gradientTransform="translate(-0.92474,0.576353)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6521" gradientUnits="userSpaceOnUse" x1="111.09014" y1="9.5581846" x2="111.09014" y2="4.5812702" gradientTransform="matrix(1,0,0,0.8533221,90.93474,12.854629)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6568" gradientUnits="userSpaceOnUse" x1="29.531891" y1="12.391346" x2="34.413399" y2="10.239695" gradientTransform="translate(307.91158,79.917343)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6572" gradientUnits="userSpaceOnUse" x1="29.001562" y1="11.153909" x2="34.766953" y2="9.3558111" gradientTransform="translate(272.89511,79.917343)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6576" gradientUnits="userSpaceOnUse" x1="133" y1="127.75" x2="133" y2="135" gradientTransform="translate(1,-33)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6579" gradientUnits="userSpaceOnUse" x1="133" y1="127.75" x2="133" y2="135" gradientTransform="translate(1,-33)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6582" gradientUnits="userSpaceOnUse" x1="133" y1="127.75" x2="133" y2="135" gradientTransform="translate(33,1)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient6585" gradientUnits="userSpaceOnUse" x1="133" y1="127.75" x2="133" y2="135" gradientTransform="translate(33,1)"/>
+    <radialGradient inkscape:collect="always" xlink:href="#linearGradient5724" id="radialGradient5997" cx="300.25" cy="54.41" fx="300.25" fy="54.41" r="6.8125" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1.4365102,0,0,1.4365102,-131.06217,-23.750517)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5987" id="linearGradient5993" x1="61.09375" y1="52.140625" x2="61" y2="64.390625" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.9555452,0,0,0.9555452,2.7582719,2.4234729)"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5987" id="linearGradient5997" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.7110448,0,0,0.7110448,264.89567,-16.522694)" x1="61.09375" y1="52.140625" x2="61" y2="64.390625"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient5716" id="linearGradient5057" gradientUnits="userSpaceOnUse" gradientTransform="matrix(1,0,0,0.7178393,-14.056043,14.042946)" x1="112.42966" y1="15.217949" x2="112.42966" y2="21.001818"/>
+    <filter color-interpolation-filters="sRGB" inkscape:collect="always" id="filter11320" x="-0.11129395" width="1.2225879" y="-0.11007202" height="1.220144">
+      <feGaussianBlur inkscape:collect="always" stdDeviation="0.73842684" id="feGaussianBlur11322"/>
+    </filter>
+  </defs>
+  <defs id="progress">
+    <g id="parts">
+      <rect width="16" height="40" ry="8" id="part1"/>
+      <rect width="16" height="30" ry="8" id="part2"/>
+      <rect width="16" height="20" ry="8" id="part3"/>
+      <rect width="16" height="16" ry="8" id="part4"/>
+    </g>
+    <symbol id="progress1">
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(000,70,70)" fill="#000000" id="use126"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" id="use128"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" id="use130"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" id="use132"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" id="use134"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" id="use136"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" id="use138"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" id="use140"/>
+    </symbol>
+    <symbol id="progress2">
+      <use xlink:href="#part2" x="62" y="10" transform="rotate(000,70,70)" fill="#000000" id="use143"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" id="use145"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" id="use147"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" id="use149"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" id="use151"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" id="use153"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" id="use155"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" id="use157"/>
+    </symbol>
+    <symbol id="progress3">
+      <use xlink:href="#part3" x="62" y="20" transform="rotate(000,70,70)" fill="#000000" id="use160"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" id="use162"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" id="use164"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" id="use166"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" id="use168"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" id="use170"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" id="use172"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" id="use174"/>
+    </symbol>
+    <symbol id="progress4">
+      <use xlink:href="#part4" x="62" y="24" transform="rotate(000,70,70)" fill="#000000" id="use177"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(045,70,70)" fill="#b0b0b0" id="use179"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(090,70,70)" fill="#b0b0b0" id="use181"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(135,70,70)" fill="#b0b0b0" id="use183"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(180,70,70)" fill="#b0b0b0" id="use185"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(225,70,70)" fill="#989898" id="use187"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(270,70,70)" fill="#808080" id="use189"/>
+      <use xlink:href="#part1" x="62" y="00" transform="rotate(315,70,70)" fill="#606060" id="use191"/>
+    </symbol>
+  </defs>
+  <defs id="defs_wait_righthanded">
+    <symbol id="wait_righthanded_icon">
+      <path id="path5709" d="M 293.8125,42.9375 V 59.375 l 2.40625,-2.34375 c 0.76188,1.592958 2.13726,2.833522 3.8125,3.4375 0.0811,0.04173 0.15632,0.07322 0.25,0.09375 0.0215,0.0047 0.0405,-0.0036 0.0625,0 0.62547,0.191558 1.28081,0.3125 1.96875,0.3125 3.726,0 6.75,-3.024 6.75,-6.75 0,-3.726 -3.024,-6.75 -6.75,-6.75 -1.22874,0 -2.38222,0.331795 -3.375,0.90625 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter5724);enable-background:accumulate" inkscape:connector-curvature="0"/>
+      <circle transform="translate(1.75,1.25)" id="path5705" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" cx="300.25" cy="52.25" r="6.75"/>
+      <g id="g5697" inkscape:label="#g5607" transform="translate(266.89511,39.979843)">
+        <path sodipodi:nodetypes="cccccccc" id="path5701" d="M 26.604893,2.3179921 V 18.758225 l 3.712311,-3.623922 2.12132,4.331029 c 0.519598,1.171377 3.220861,0.229524 2.452777,-1.336875 l -2.099224,-4.496756 h 4.684582 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient5735);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" inkscape:connector-curvature="0"/>
+      </g>
+      <circle style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:url(#radialGradient5997);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" id="path5707" transform="matrix(0.9259259,0,0,0.9259259,23.990741,5.1203704)" cx="300.25" cy="52.25" r="6.75"/>
+      <path transform="translate(-6.999997,29.5)" id="path5995" d="m 309.00267,18.340725 c -3.12331,0 -5.64392,2.542823 -5.64392,5.666139 0,0.633756 0.0964,1.230795 0.28887,1.799832 1.66334,0.205942 3.4618,0.333303 5.33283,0.333303 1.90422,0 3.71141,-0.120334 5.3995,-0.333303 0.19247,-0.569038 0.28887,-1.166076 0.28887,-1.799832 0,-3.123316 -2.54283,-5.666139 -5.66615,-5.666139 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.62941176;fill:url(#linearGradient5997);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11804426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" inkscape:connector-curvature="0"/>
+    </symbol>
+  </defs>
+  <defs id="defs_wait">
+    <symbol id="wait_icon">
+      <circle transform="matrix(0.894419,0,0,0.894419,-209.9944,39.131376)" id="path5739" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter5741);enable-background:accumulate" cx="304.93979" cy="21.409876" r="9.5459414"/>
+      <circle style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#radialGradient5789);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.11804426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" id="path5737" transform="matrix(0.894419,0,0,0.894419,-210.7015,37.835881)" cx="304.93979" cy="21.409876" r="9.5459414"/>
+      <path style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.62941176;fill:url(#linearGradient5993);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11804426;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" d="m 62.031946,49.275055 c -4.197304,0 -7.584646,3.417201 -7.584644,7.614503 0,0.851679 0.129534,1.654017 0.38819,2.418724 2.235305,0.276757 4.652184,0.447913 7.166592,0.447913 2.559009,0 4.987611,-0.161713 7.256174,-0.447913 0.258656,-0.764708 0.388189,-1.567045 0.38819,-2.418724 0,-4.197302 -3.417202,-7.614503 -7.614502,-7.614503 z" id="path5013" inkscape:connector-curvature="0"/>
+    </symbol>
+  </defs>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" style="display:inline">
+    <g id="g1033" inkscape:label="group_logo">
+      <g transform="translate(-11,123)" id="g6238">
+        <text id="text5612" y="354.02832" x="16.787598" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Myriad;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:block;overflow:visible;visibility:visible;opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" xml:space="preserve">
+          <tspan style="font-size:14.49398899px;line-height:2" y="354.02832" x="16.787598" id="tspan5614" sodipodi:role="line">Style Neutral Scalable Cursor Theme</tspan>
+        </text>
+        <text xml:space="preserve" style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Myriad;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:block;overflow:visible;visibility:visible;opacity:1;fill:#555753;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" x="16.787598" y="370.76855" id="text5843">
+          <tspan style="font-size:10px;line-height:2" sodipodi:role="line" id="tspan5845" x="16.787598" y="370.76855">http://jimmac.musichall.cz</tspan>
+        </text>
+        <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.4;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" d="M 17,336.53033 H 239" id="path4751"/>
+        <path inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccccccccccccsccscscccccccccccccscccccccccccccsccc" id="text6216" d="m 17.34375,282.47611 v 44.17278 L 37.75,326.6875 c 6.373411,0 11.515346,-1.2915 15.4375,-3.90625 1.658134,-1.11243 2.881215,-2.29052 3.6875,-3.5 v 7.54442 c 0,0 10.71875,0 10.71875,0 V 291.875 l 9.6875,16.6875 c 2.546685,4.4633 7.180114,3.99709 9.8125,0 l 9.5,-16.5 v 34.78461 l 50.44883,-0.15961 c 0,0 -0.0738,-4.28125 -0.0738,-4.28125 -4e-5,-1.14395 -0.48826,-2.14202 -1.46875,-3 -0.93972,-0.85796 -2.26247,-1.28125 -3.9375,-1.28125 h -24.5 v -3.4375 c -10e-6,-0.49025 0.25012,-1.00013 0.78125,-1.53125 0.28597,-0.28597 0.61064,-0.52406 0.9375,-0.6875 L 139.75,302.1875 c 1.14391,-0.40853 2.142,-0.94004 3,-1.59375 0.36766,-0.28596 0.97614,-0.88239 1.875,-1.78125 0.81706,-0.89879 1.41351,-1.76701 1.78125,-2.625 0.36765,-0.85793 0.56246,-1.73576 0.5625,-2.59375 v -10.76409 l -53.75,-0.0172 c -2.048236,0.0183 -3.656201,0.86673 -4.90625,2.4375 l -6.125,11.03125 -6.4375,-11.3125 c -1.114532,-1.71286 -2.966633,-2.33176 -4.90625,-2.53125 0,0 -13.96875,0.0386 -13.96875,0.0386 V 290 c -1.107425,-1.80913 -3.033089,-3.40231 -5.78125,-4.75 -3.881296,-1.8793 -8.340209,-2.81245 -13.40625,-2.8125 0,0 -20.34375,0.0386 -20.34375,0.0386 z m 89.96875,6.86764 c 0.11899,0.13395 0.23522,0.27863 0.375,0.40625 0.98052,0.858 2.29367,1.28127 3.96875,1.28125 H 136.25 l 0.0625,2.4375 -23.0625,11.59375 c 0,0 -2.58243,1.48569 -3.78125,2.375 -0.96194,0.64151 -1.51338,1.5645 -2.09375,2.53125 -0.0133,0.0266 -0.0477,0.095 -0.0625,0.125 z m -79.25,1.6875 h 9.625 c 2.410442,4e-5 4.579767,0.29347 6.5,0.90625 1.961026,0.57201 3.002398,1.48352 3.125,2.75 V 314.75 c -3.4e-5,0.93969 -0.921147,1.72131 -2.71875,2.375 -1.797667,0.6537 -4.130543,1 -7.03125,1 h -9.5 z" style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.75388718px;line-height:200%;font-family:Axaxax;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:block;overflow:visible;visibility:visible;opacity:1;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"/>
+      </g>
+      <text id="text6258" y="302" x="150" transform="translate(-11,123)" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Arial Rounded CE';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" xml:space="preserve">
+        <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
+      </text>
+    </g>
+    <g id="g1485" inkscape:label="group_arrow_wait_animated_rh">
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-273,213)" id="wait_righthanded_00_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-243,213)" id="wait_righthanded_01_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-213,213)" id="wait_righthanded_02_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-183,213)" id="wait_righthanded_03_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-153,213)" id="wait_righthanded_04_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-123,213)" id="wait_righthanded_05_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-93,213)" id="wait_righthanded_06_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-63,213)" id="wait_righthanded_07_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-33,213)" id="wait_righthanded_08_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(-3,213)" id="wait_righthanded_09_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(27,213)" id="wait_righthanded_10_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(57,213)" id="wait_righthanded_11_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(87,213)" id="wait_righthanded_12_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(117,213)" id="wait_righthanded_13_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(147,213)" id="wait_righthanded_14_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(177,213)" id="wait_righthanded_15_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(207,213)" id="wait_righthanded_16_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(237,213)" id="wait_righthanded_17_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(267,213)" id="wait_righthanded_18_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(297,213)" id="wait_righthanded_19_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(327,213)" id="wait_righthanded_20_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(357,213)" id="use264" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(387,213)" id="wait_righthanded_22_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(417,213)" id="wait_righthanded_23_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(447,213)" id="wait_righthanded_24_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(477,213)" id="wait_righthanded_25_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(507,213)" id="wait_righthanded_26_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(537,213)" id="wait_righthanded_27_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(567,213)" id="wait_righthanded_28_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(597,213)" id="wait_righthanded_29_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(627,213)" id="wait_righthanded_30_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="translate(657,213)" id="wait_righthanded_31_icon" xlink:href="#wait_righthanded_icon" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.07,0,0,0.07,24.118718,261.51647)" id="wait_righthanded_00_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.07,0,0,0.07,54.118718,261.51647)" id="wait_righthanded_01_progress" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.07,0,0,0.07,84.118718,261.51647)" id="wait_righthanded_02_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.07,0,0,0.07,114.11872,261.51647)" id="wait_righthanded_03_progress" xlink:href="#progress1" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,0.04949747,-0.04949747,0.04949747,149.01872,259.48682)" id="wait_righthanded_04_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,0.04949747,-0.04949747,0.04949747,179.01872,259.48682)" id="wait_righthanded_05_progress" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,0.04949747,-0.04949747,0.04949747,209.01872,259.48682)" id="wait_righthanded_06_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,0.04949747,-0.04949747,0.04949747,239.01872,259.48682)" id="wait_righthanded_07_progress" xlink:href="#progress1" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,0.07,-0.07,0,273.91872,261.51647)" id="wait_righthanded_08_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,0.07,-0.07,0,303.91872,261.51647)" id="wait_righthanded_09_progress" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,0.07,-0.07,0,333.91872,261.51647)" id="wait_righthanded_10_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,0.07,-0.07,0,363.91872,261.51647)" id="wait_righthanded_11_progress" xlink:href="#progress1" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,0.04949747,-0.04949747,-0.04949747,395.94836,266.41647)" id="wait_righthanded_12_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,0.04949747,-0.04949747,-0.04949747,425.94836,266.41647)" id="wait_righthanded_13_progress" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,0.04949747,-0.04949747,-0.04949747,455.94836,266.41647)" id="wait_righthanded_14_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,0.04949747,-0.04949747,-0.04949747,485.94836,266.41647)" id="wait_righthanded_15_progress" xlink:href="#progress1" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.07,0,0,-0.07,513.91872,271.31647)" id="wait_righthanded_16_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.07,0,0,-0.07,543.91872,271.31647)" id="wait_righthanded_17_progress" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.07,0,0,-0.07,573.91872,271.31647)" id="wait_righthanded_18_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.07,0,0,-0.07,603.91872,271.31647)" id="wait_righthanded_19_progress" xlink:href="#progress1" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,-0.04949747,0.04949747,-0.04949747,629.01872,273.34612)" id="wait_righthanded_20_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,-0.04949747,0.04949747,-0.04949747,659.01872,273.34612)" id="use297" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,-0.04949747,0.04949747,-0.04949747,689.01872,273.34612)" id="wait_righthanded_22_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(-0.04949747,-0.04949747,0.04949747,-0.04949747,719.01872,273.34612)" id="wait_righthanded_23_progress" xlink:href="#progress1" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,-0.07,0.07,0,744.11872,271.31647)" id="wait_righthanded_24_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,-0.07,0.07,0,774.11872,271.31647)" id="wait_righthanded_25_progress" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,-0.07,0.07,0,804.11872,271.31647)" id="wait_righthanded_26_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0,-0.07,0.07,0,834.11872,271.31647)" id="wait_righthanded_27_progress" xlink:href="#progress1" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,-0.04949747,0.04949747,0.04949747,862.08907,266.41647)" id="wait_righthanded_28_progress" xlink:href="#progress4" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,-0.04949747,0.04949747,0.04949747,892.08907,266.41647)" id="wait_righthanded_29_progress" xlink:href="#progress3" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,-0.04949747,0.04949747,0.04949747,922.08907,266.41647)" id="wait_righthanded_30_progress" xlink:href="#progress2" style="display:inline"/>
+      <use height="100%" width="100%" y="0" x="0" transform="matrix(0.04949747,-0.04949747,0.04949747,0.04949747,952.08907,266.41647)" id="wait_righthanded_31_progress" xlink:href="#progress1" style="display:inline"/>
+    </g>
+  </g>
+  <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="15" height="24" width="24" id="wait_righthanded_00"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="45" height="24" width="24" id="wait_righthanded_01"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="75" height="24" width="24" id="wait_righthanded_02"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="105" height="24" width="24" id="wait_righthanded_03"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="135" height="24" width="24" id="wait_righthanded_04"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="165" height="24" width="24" id="wait_righthanded_05"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="195" height="24" width="24" id="wait_righthanded_06"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="225" height="24" width="24" id="wait_righthanded_07"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="255" height="24" width="24" id="wait_righthanded_08"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="285" height="24" width="24" id="wait_righthanded_09"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="315" height="24" width="24" id="wait_righthanded_10"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="345" height="24" width="24" id="wait_righthanded_11"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="375" height="24" width="24" id="wait_righthanded_12"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="405" height="24" width="24" id="wait_righthanded_13"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="435" height="24" width="24" id="wait_righthanded_14"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="465" height="24" width="24" id="wait_righthanded_15"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="495" height="24" width="24" id="wait_righthanded_16"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="525" height="24" width="24" id="wait_righthanded_17"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="555" height="24" width="24" id="wait_righthanded_18"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="585" height="24" width="24" id="wait_righthanded_19"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="615" height="24" width="24" id="wait_righthanded_20"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="645" height="24" width="24" id="wait_righthanded_21"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="675" height="24" width="24" id="wait_righthanded_22"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="705" height="24" width="24" id="wait_righthanded_23"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="735" height="24" width="24" id="wait_righthanded_24"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="765" height="24" width="24" id="wait_righthanded_25"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="795" height="24" width="24" id="wait_righthanded_26"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="825" height="24" width="24" id="wait_righthanded_27"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="855" height="24" width="24" id="wait_righthanded_28"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="885" height="24" width="24" id="wait_righthanded_29"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="915" height="24" width="24" id="wait_righthanded_30"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="252" x="945" height="24" width="24" id="wait_righthanded_31"/>
+  </g>
+  <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
+    <circle r="2" cy="255" cx="20" id="circle894" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="50" id="circle896" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="80" id="circle898" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="110" id="circle900" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="140" id="circle902" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="170" id="circle904" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="200" id="circle906" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="230" id="circle908" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="260" id="circle910" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="290" id="circle912" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="320" id="circle914" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="350" id="circle916" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="380" id="circle918" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="410" id="circle920" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="440" id="circle922" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="470" id="circle924" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="500" id="circle926" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="530" id="circle928" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="560" id="circle930" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="590" id="circle932" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="620" id="circle934" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="650" id="circle936" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="680" id="circle938" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="710" id="circle940" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="740" id="circle942" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="770" id="circle944" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="800" id="circle946" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="830" id="circle948" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="860" id="circle950" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="890" id="circle952" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="920" id="circle954" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+    <circle r="2" cy="255" cx="950" id="circle956" style="display:inline;fill:#ff0000;fill-opacity:1"/>
+  </g>
+</svg>
