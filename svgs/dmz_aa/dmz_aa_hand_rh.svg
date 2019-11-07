@@ -169,7 +169,7 @@
         <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
       </text>
     </g>
-    <g id="g1799" inkscape:label="group_hand1">
+    <g id="g1799" inkscape:label="group_hand-open-rh">
       <g id="g6443" style="display:inline">
         <path inkscape:connector-curvature="0" sodipodi:nodetypes="cscssccccccccccsc" id="path5706" d="m 55.375,21.25237 c 0,0 0.08838,5.08233 0.08838,7.20365 0,2.12132 2.03294,2.032932 2.03294,2.032932 0,0 10.87176,0.04419 11.57887,-0.0442 0.70711,-0.08839 1.41421,-0.662912 1.41421,-1.370018 0,-0.707107 0,-9.493245 0,-9.493245 -1.0426,-1.259256 -1.96481,-1.24083 -3.06234,-1.107996 -0.12343,-0.8146 -0.15457,-1.48203 -0.94638,-1.939182 l -2.10301,-0.0076 c -0.06132,-0.63435 -0.38254,-1.148059 -0.82675,-1.196361 l -1.24188,0.0442 c -0.5711,0.01685 -0.98618,0.608503 -0.98078,1.149048 h -1.86059 c -0.69909,0.09017 -1.06158,0.509804 -1.08747,1.227634 v 7.434424 c 0,0 0.08839,-3.889087 -1.23744,-3.933281 0,0 -1.59099,0 -1.76776,0 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter5712);enable-background:accumulate"/>
         <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;fill:url(#linearGradient6293);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" d="m 54.5,20.40862 c 0,0 0.08838,4.92608 0.08838,7.0474 0,2.12132 2.03294,2.032932 2.03294,2.032932 0,0 10.87176,0.04419 11.57887,-0.0442 0.70711,-0.08839 1.41421,-0.662912 1.41421,-1.370018 0,-0.707107 0,-9.493245 0,-9.493245 -1.0426,-1.259256 -1.96481,-1.24083 -3.06234,-1.107996 -0.12343,-0.8146 -0.15457,-1.48203 -0.94638,-1.939182 l -2.10301,-0.0076 c -0.06132,-0.63435 -0.38254,-1.148059 -0.82675,-1.196361 l -1.24188,0.0442 c -0.5711,0.01685 -0.98618,0.608503 -0.98078,1.149048 h -1.86059 c -0.69909,0.09018 -1.06158,0.509804 -1.08747,1.227634 v 7.434424 c 0,0 0.08839,-3.732837 -1.23744,-3.777031 0,0 -1.59099,0 -1.76776,0 z" id="path5630" sodipodi:nodetypes="cscssccccccccccsc"/>
@@ -186,7 +186,7 @@
     </g>
   </g>
   <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="10" x="50" height="24" width="24" id="hand1"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="10" x="50" height="24" width="24" id="hand-open-rh"/>
   </g>
   <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
     <circle r="2" cy="16.5" cx="62.5" id="hot-point-3" style="display:inline;fill:#ff0000;fill-opacity:1"/>

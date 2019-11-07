@@ -184,7 +184,7 @@
         <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
       </text>
     </g>
-    <g id="g2311" inkscape:label="group_dnd-ask">
+    <g id="g2311" inkscape:label="group_dnd-ask-rh">
       <use transform="translate(138.0625,104.9375)" id="use3304" xlink:href="#hand_closed" y="0" x="0" style="display:inline"/>
       <g transform="translate(-10.90625,-2)" id="g6191" style="display:inline">
         <path inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccsccsssssccsssssccssscc" id="path6189" d="m 252.98325,134.66316 h 1.07802 V 136 h -1.07802 v -1.33684 m 1.04615,-0.77369 h -1.01429 v -0.81052 c 0,-0.35438 0.0496,-0.64562 0.14869,-0.87369 0.0991,-0.22806 0.30801,-0.49297 0.62663,-0.79474 l 0.47794,-0.46842 c 0.2018,-0.18595 0.34695,-0.3614 0.43546,-0.52631 0.092,-0.16491 0.13806,-0.33333 0.13807,-0.50527 -1e-5,-0.31227 -0.11683,-0.56491 -0.35049,-0.75789 -0.23012,-0.19297 -0.53635,-0.28946 -0.9187,-0.28947 -0.27969,1e-5 -0.57885,0.0614 -0.89747,0.18421 -0.31509,0.1228 -0.36309,0.17676 -0.70649,0.41184 v -0.98947 c 0.33278,-0.19999 0.38786,-0.22412 0.72773,-0.32237 0.34341,-0.0982 0.69744,-0.14736 1.06209,-0.14737 0.65141,1e-5 1.1736,0.17018 1.56658,0.51052 0.3965,0.34036 0.59476,0.78948 0.59477,1.34738 -1e-5,0.26667 -0.0637,0.52104 -0.19118,0.76315 -0.12745,0.2386 -0.35049,0.50878 -0.66911,0.81052 l -0.46732,0.45264 c -0.1664,0.16493 -0.285,0.29475 -0.3558,0.38948 -0.0673,0.0912 -0.11506,0.1807 -0.14339,0.26841 -0.0212,0.0737 -0.0372,0.16316 -0.0478,0.26842 -0.0106,0.10527 -0.0159,0.24913 -0.0159,0.43159 v 0.64736" style="font-style:normal;font-weight:normal;font-size:12px;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
@@ -193,7 +193,7 @@
     </g>
   </g>
   <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="224" height="24" width="24" id="dnd-ask"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="224" height="24" width="24" id="dnd-ask-rh"/>
   </g>
   <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
     <circle r="2" cy="125.5" cx="235" id="hot-point-56" style="display:inline;fill:#ff0000;fill-opacity:1"/>

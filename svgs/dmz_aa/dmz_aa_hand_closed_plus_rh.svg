@@ -184,7 +184,7 @@
         <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
       </text>
     </g>
-    <g id="g2330" inkscape:label="group_dnd-copy">
+    <g id="g2330" inkscape:label="group_dnd-copy-rh">
       <use transform="translate(173.0625,104.9375)" id="use3304" xlink:href="#hand_closed" y="0" x="0" style="display:inline"/>
       <g transform="translate(41,117)" id="g6278" style="display:inline">
         <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" d="m 234.86022,9.5550291 c -0.19587,0 -0.34375,0.1478815 -0.34375,0.34375 v 2.5955899 h -2.72817 c -0.19587,0 -0.34375,0.147881 -0.34375,0.34375 v 2.318131 c 0,0.195869 0.14789,0.34375 0.34375,0.34375 h 2.72817 v 2.59559 c 0,0.195869 0.14789,0.34375 0.34375,0.34375 h 2.27956 c 0.19587,0 0.34375,-0.147881 0.34375,-0.34375 V 15.5 h 2.63978 c 0.19587,0 0.34375,-0.147881 0.34375,-0.34375 v -2.318131 c 0,-0.195869 -0.14789,-0.34375 -0.34375,-0.34375 h -2.63978 V 9.8987791 c 0,-0.1958686 -0.14789,-0.34375 -0.34375,-0.34375 z" id="path6280" sodipodi:nodetypes="ccccccccccccccccccccc"/>
@@ -196,7 +196,7 @@
     </g>
   </g>
   <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="259" height="24" width="24" id="dnd-copy"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="259" height="24" width="24" id="dnd-copy-rh"/>
   </g>
   <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
     <circle r="2" cy="126.5" cx="268.5" id="hot-point-937" style="display:inline;fill:#ff0000;fill-opacity:1"/>

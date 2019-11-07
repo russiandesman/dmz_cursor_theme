@@ -169,7 +169,7 @@
         <tspan style="font-size:28px;line-height:1.25" dx="0 -11" y="302" x="150" id="tspan6260" sodipodi:role="line">AA</tspan>
       </text>
     </g>
-    <g id="g2226" inkscape:label="group_circle">
+    <g id="g2226" inkscape:label="group_ptr-circle-rh">
       <g transform="translate(26.911578,114.91684)" inkscape:label="#g5607" id="g4888" style="display:inline">
         <path inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccc" id="path4890" d="M 27.135224,2.8483222 V 19.288556 l 3.712311,-3.623922 2.12132,4.331029 c 0.519598,1.171377 3.220861,0.229524 2.452777,-1.336875 l -2.099224,-4.496756 h 4.684582 z" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;filter:url(#filter5601);enable-background:accumulate"/>
         <path inkscape:connector-curvature="0" style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:1;fill:url(#linearGradient4908);fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate" d="M 26.604893,2.3179921 V 18.758225 l 3.712311,-3.623922 2.12132,4.331029 c 0.519598,1.171377 3.220861,0.229524 2.452777,-1.336875 l -2.099224,-4.496756 h 4.684582 z" id="path4892" sodipodi:nodetypes="cccccccc"/>
@@ -181,7 +181,7 @@
     </g>
   </g>
   <g inkscape:groupmode="layer" id="layer2" inkscape:label="slices" style="display:none" sodipodi:insensitive="true">
-    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="50" height="24" width="24" id="circle"/>
+    <rect style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.52571429;fill:#6e6e6e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" y="115" x="50" height="24" width="24" id="ptr-circle-rh"/>
   </g>
   <g id="layer3" inkscape:label="hot_points" style="display:none" inkscape:groupmode="layer">
     <circle r="2" cy="117" cx="53.5" id="hot-point-63" style="display:inline;fill:#ff0000;fill-opacity:1"/>
